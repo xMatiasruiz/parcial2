@@ -1,0 +1,26 @@
+{
+    "20353573": {
+        "nombre": "made",
+        "apellido": "takahashi",
+        "edad": 22,
+        "nota": 9.5
+    },
+    "19212233": {
+        "nombre": "Arima",
+        "apellido": "kyosho",
+        "edad": 40,
+        "nota": 10.0
+    },
+    "30453573": {
+        "nombre": "sanji",
+        "apellido": "takakura",
+        "edad": 22,
+        "nota": 7.5
+    },
+    "36737320": {
+        "nombre": "gonza",
+        "apellido": "tagliafico",
+        "edad": 22,
+        "nota": 5.0
+    }
+}

@@ -1,0 +1,5 @@
+# ignorar carpetas de python
+__pycache__
+
+#ignorar historial
+.history
